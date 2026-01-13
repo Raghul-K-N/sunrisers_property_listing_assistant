@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "Sunrisers Mobile",
+    "slug": "sunrisers-mobile",
+    "version": "0.1.0",
+    "android": {
+      "package": "com.sunrisers.mobile",
+      "permissions": [
+        "CAMERA",
+        "ACCESS_FINE_LOCATION"
+      ]
+    },
+    "ios": {
+      "bundleIdentifier": "no"
+    },
+    "plugins": [
+      "expo-asset"
+    ]
+  }
+}
